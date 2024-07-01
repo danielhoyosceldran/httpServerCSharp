@@ -1,0 +1,7 @@
+C:\Users\Aleix Gil\Documents\Proves\serverHttpPut\serverHttpPut\bin\Debug\serverHttpPut.exe.config
+C:\Users\Aleix Gil\Documents\Proves\serverHttpPut\serverHttpPut\bin\Debug\serverHttpPut.exe
+C:\Users\Aleix Gil\Documents\Proves\serverHttpPut\serverHttpPut\bin\Debug\serverHttpPut.pdb
+C:\Users\Aleix Gil\Documents\Proves\serverHttpPut\serverHttpPut\obj\Debug\serverHttpPut.csprojAssemblyReference.cache
+C:\Users\Aleix Gil\Documents\Proves\serverHttpPut\serverHttpPut\obj\Debug\serverHttpPut.csproj.CoreCompileInputs.cache
+C:\Users\Aleix Gil\Documents\Proves\serverHttpPut\serverHttpPut\obj\Debug\serverHttpPut.exe
+C:\Users\Aleix Gil\Documents\Proves\serverHttpPut\serverHttpPut\obj\Debug\serverHttpPut.pdb
